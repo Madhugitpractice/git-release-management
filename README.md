@@ -5,6 +5,6 @@ class Simple{
 }   
 class Simple{  
     public static void main(String args[]){  
-     System.out.println("Java is a language");  
+     System.out.println("Java is a language ++++++++++++++++++++++++++++++++++++");  
     }  
 }  
